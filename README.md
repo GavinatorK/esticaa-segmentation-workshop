@@ -53,7 +53,7 @@ From within the Team Dashboard, click on "AWS Console" and then "Open AWS Consol
 | Brandon | c4d0-066746d194-a1 |
 
 !!! info
-    These accounts will be available for you to use until close of business on **04/21/2021**
+    These accounts will be available for you to use until close of business on **05/5/2022**
 
 ## Verify Region
 
